@@ -1,4 +1,3 @@
-<h1 align="center">👨‍💻 Ronaldo Correia Couto 💻🎮</h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Ronaldo+Correia&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
@@ -51,12 +50,12 @@ Currently focused on the **Java + Spring Boot** ecosystem, but always learning s
 ---
 
 ## 🌐 Connect With Me:
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-correia-97a080327/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronaldo.correia_07/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldocorreiacouto@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronaldo-correia) |
-|------|------|------|------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-correia-97a080327/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronaldo.correia_07/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldocorreiacouto@gmail.com) 
+|------|------|------|
 
 <p align="center"> 
   Visitor count<br> 
   <img src="https://profile-counter.glitch.me/ronaldo-correia/count.svg" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
