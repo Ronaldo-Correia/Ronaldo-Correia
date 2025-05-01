@@ -41,10 +41,20 @@ Currently focused on the **Java + Spring Boot** ecosystem, but always learning s
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-correia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-correia&layout=compact&langs_count=7&theme=dark"/>
+  <!-- Stats Card with fallback -->
+  <a href="https://github.com/ronaldo-correia">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-correia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
+         onerror="this.onerror=null;this.src='https://" />
+  </a>
+  
+  <!-- Top Languages with fallback -->
+  <a href="https://github.com/ronaldo-correia?tab=repositories">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-correia&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"
+         onerror="this.onerror=null;this.src='https:" />
+  </a>
 </div>
 
 ![Snake animation](https://github.com/ronaldo-correia/ronaldo-correia/blob/output/github-contribution-grid-snake.svg)
