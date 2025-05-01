@@ -11,6 +11,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:  # Adicionei esta seção crítica
+      contents: write
     timeout-minutes: 10
 
     steps:
@@ -18,10 +20,11 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Ronaldo-Correia
+          github_user_name: Ronaldo-Correia  # Mudei para seu usuário
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
       # Pacman animation
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
