@@ -20,14 +20,13 @@ jobs:
           base: header, activity, community, repositories, metadata # base content (user info)
           plugin_introduction: yes # general account information
           # plugin_sponsors: yes
-
           plugin_isocalendar: yes # 3D isometric calendar
           plugin_isocalendar_duration: full-year # displays activity for the full year
 
           plugin_languages: yes # display used programming languages
           plugin_languages_details: bytes-size, percentage # additional info (code size and percentage)
 
-          plugin_achievements: yes
+          plugin_achievements: no
 
           plugin_achievements_threshold: X # (show locked achievements as well)
           plugin_achievements_display: detailed # detailed achievements info
@@ -39,18 +38,18 @@ jobs:
           plugin_habits_facts: yes # weekly activity analysis
           plugin_habits_charts: yes # activity charts
 
-          plugin_licenses: yes # project license info
+          plugin_licenses: no # project license info
           plugin_licenses_setup: npm ci # detailed license info
 
           plugin_skyline: yes # 3D skyline activity plugin
           plugin_skyline_year: 2022 # selected year
           plugin_skyline_frames: 120 # number of frames
-          plugin_skyline_quality: 1 # quality 1 = best
-
+          plugin_skyline_quality: 0.5 # quality 1 = best
+          
           # plugin_stargazers: yes # monthly star activity
           # plugin_stargazers_charts_type: chartist # activity chart type - smooth lines
 
-          plugin_support: yes # support plugin
+          plugin_support: no # support plugin
 
           plugin_topics: yes # used topics plugin
           plugin_topics_limit: 0
