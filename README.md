@@ -52,13 +52,14 @@ Currently focused on the **Java + Spring Boot** ecosystem, but always learning s
 <div align="center">
   <!-- Stats Card with fallback -->
   <a href="https://github.com/ronaldo-correia">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-correia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-correia&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true&cache_seconds=1800" 
          onerror="this.onerror=null;this.src='https://" />
+  
   </a>
   
   <!-- Top Languages with fallback -->
   <a href="https://github.com/ronaldo-correia?tab=repositories">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-correia&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-correia&layout=compact&langs_count=7&theme=shadow_red&cache_seconds=1800"
          onerror="this.onerror=null;this.src='https:" />
   </a>
 </div>
@@ -69,9 +70,20 @@ Currently focused on the **Java + Spring Boot** ecosystem, but always learning s
 
 
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br> 
   <img src="https://profile-counter.glitch.me/ronaldo-correia/count.svg" />
-</p>
+</p> -->
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=ronaldo-correia&label=Visitors&color=FF0000&style=for-the-badge" alt="visitor badge"/>
+
+</div>
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
