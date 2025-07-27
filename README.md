@@ -9,7 +9,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Ronaldo+Correia&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronaldo+Correia+Couto;I'm+20+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronaldo+Correia+Couto;I'm+21+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
 I'm a backend developer and just starting out in frontend, passionate  about solving problems with clean, well-structured code.  
